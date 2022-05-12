@@ -1,0 +1,10 @@
+C:\Users\WhaLeS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\WhaLeS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\WhaLeS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\WhaLeS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PP-14.Public Transport.csproj.AssemblyReference.cache
+C:\Users\WhaLeS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\WhaLeS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\WhaLeS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PP-14.Public Transport.csproj.GenerateResource.cache
+C:\Users\WhaLeS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PP-14.Public Transport.csproj.CoreCompileInputs.cache
+C:\Users\WhaLeS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\WhaLeS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
